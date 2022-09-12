@@ -1,5 +1,5 @@
 # espHttpClient
-Software for esp8266 board, connects and sends data from the sensor into PHP script via HTTPS methods 
+Software for esp8266 board, connect to the internet and sends data from the sensor into PHP script via HTTPS methods 
 
 
 <h2> Quick render </h2>
